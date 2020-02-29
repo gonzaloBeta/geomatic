@@ -24,4 +24,4 @@ Lenguaje de programación Java utilizando POO. Entorno de desarrollo Eclipse.
 Desarrolladores.
 
 Gonzalo Escobar
-gonzalo.escobar.gh@gmail.co
+gonzalo.escobar.gh@gmail.com
